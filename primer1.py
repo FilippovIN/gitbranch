@@ -1,5 +1,5 @@
 def my_superfunction():
-    print('Меня зовут Вася')
+    print('Меня зовут Федя')
 
 
 def main():
