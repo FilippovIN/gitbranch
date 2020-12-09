@@ -5,6 +5,7 @@ def my_superfunction():
 def main():
     print('Привет')
     my_superfunction()
+    print(1)
 
 
 if __name__ == '__main__':
